@@ -1,0 +1,9 @@
+c:\users\bruno\documents\visual studio 2015\Projects\BoltNavegador\BoltNavegador\bin\Debug\BoltNavegador.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\BoltNavegador\BoltNavegador\bin\Debug\BoltNavegador.exe
+c:\users\bruno\documents\visual studio 2015\Projects\BoltNavegador\BoltNavegador\bin\Debug\BoltNavegador.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\BoltNavegador\BoltNavegador\obj\Debug\BoltNavegador.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\BoltNavegador\BoltNavegador\obj\Debug\BoltNavegador.Form1.resources
+c:\users\bruno\documents\visual studio 2015\Projects\BoltNavegador\BoltNavegador\obj\Debug\BoltNavegador.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\BoltNavegador\BoltNavegador\obj\Debug\BoltNavegador.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\BoltNavegador\BoltNavegador\obj\Debug\BoltNavegador.exe
+c:\users\bruno\documents\visual studio 2015\Projects\BoltNavegador\BoltNavegador\obj\Debug\BoltNavegador.pdb

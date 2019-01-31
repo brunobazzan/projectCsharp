@@ -1,0 +1,12 @@
+c:\users\bruno\documents\visual studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\bin\Debug\ANGELA_PROGRAMA.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\bin\Debug\ANGELA_PROGRAMA.exe
+c:\users\bruno\documents\visual studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\bin\Debug\ANGELA_PROGRAMA.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\obj\Debug\ANGELA_PROGRAMA.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\obj\Debug\ANGELA_PROGRAMA.Form1.resources
+c:\users\bruno\documents\visual studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\obj\Debug\ANGELA_PROGRAMA.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\obj\Debug\ANGELA_PROGRAMA.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\obj\Debug\ANGELA_PROGRAMA.exe
+c:\users\bruno\documents\visual studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\obj\Debug\ANGELA_PROGRAMA.pdb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\obj\Debug\ANGELA_PROGRAMA.DeletarContato.resources
+C:\Users\Bruno\documents\visual studio 2015\Projects\ANGELA_PROGRAMA\ANGELA_PROGRAMA\bin\Debug\PT\System.Data.SqlServerCe.resources.dll

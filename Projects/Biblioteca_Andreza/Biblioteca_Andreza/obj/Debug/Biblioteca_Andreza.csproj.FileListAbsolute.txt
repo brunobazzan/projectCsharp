@@ -1,0 +1,42 @@
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\bin\Debug\Biblioteca_Andreza.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\bin\Debug\Biblioteca_Andreza.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\bin\Debug\Biblioteca_Andreza.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.loginForm.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaLocatarios.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaPrincipalForm.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.pdb
+C:\Users\Bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaLivrosForm.resources
+C:\Users\Bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaEmprestimo.resources
+C:\Users\Bruno\documents\visual studio 2015\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaConfiguracao.resources
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\bin\Debug\Biblioteca_Andreza.exe.config
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.exe
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.pdb
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\bin\Debug\Biblioteca_Andreza.exe
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\bin\Debug\Biblioteca_Andreza.pdb
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.csprojResolveAssemblyReference.cache
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.loginForm.resources
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.Properties.Resources.resources
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaConfiguracao.resources
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaEmprestimo.resources
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaLivrosForm.resources
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaLocatarios.resources
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaPrincipalForm.resources
+D:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.csproj.GenerateResource.Cache
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\bin\Debug\Biblioteca_Andreza.exe.config
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.exe
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.pdb
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\bin\Debug\Biblioteca_Andreza.exe
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\bin\Debug\Biblioteca_Andreza.pdb
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.csprojResolveAssemblyReference.cache
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.loginForm.resources
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.Properties.Resources.resources
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaConfiguracao.resources
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaEmprestimo.resources
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaLivrosForm.resources
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaLocatarios.resources
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.telaPrincipalForm.resources
+E:\Projects\Biblioteca_Andreza\Biblioteca_Andreza\obj\Debug\Biblioteca_Andreza.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+c:\users\bruno\documents\visual studio 2015\Projects\Programa_Estudo\Programa_Estudo\bin\Debug\Programa_Estudo.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\Programa_Estudo\Programa_Estudo\bin\Debug\Programa_Estudo.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Programa_Estudo\Programa_Estudo\bin\Debug\Programa_Estudo.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\Programa_Estudo\Programa_Estudo\obj\Debug\Programa_Estudo.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\Programa_Estudo\Programa_Estudo\obj\Debug\Programa_Estudo.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Programa_Estudo\Programa_Estudo\obj\Debug\Programa_Estudo.pdb

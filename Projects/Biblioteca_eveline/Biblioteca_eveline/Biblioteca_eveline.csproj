@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5A26C721-0E34-4D22-9E95-4394B61426FD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Biblioteca_eveline</RootNamespace>
+    <AssemblyName>Biblioteca_eveline</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="autoresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="autoresForm.Designer.cs">
+      <DependentUpon>autoresForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="autorEspiritualForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="autorEspiritualForm.Designer.cs">
+      <DependentUpon>autorEspiritualForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BIBLIOTECA_EVELIONEDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BIBLIOTECA_EVELIONEDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CadastrarClientesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastrarClientesForm.Designer.cs">
+      <DependentUpon>CadastrarClientesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastrarLivroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastrarLivroForm.Designer.cs">
+      <DependentUpon>cadastrarLivroForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clienteClasse.cs" />
+    <Compile Include="configurarBancoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="configurarBancoForm.Designer.cs">
+      <DependentUpon>configurarBancoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevolverLivroClasse.cs" />
+    <Compile Include="DevolverLivroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevolverLivroForm.Designer.cs">
+      <DependentUpon>DevolverLivroForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ecluirLivroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ecluirLivroForm.Designer.cs">
+      <DependentUpon>ecluirLivroForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmprestarLivroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmprestarLivroForm.Designer.cs">
+      <DependentUpon>EmprestarLivroForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmprestimoClass.cs" />
+    <Compile Include="ExcluirLocatarioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExcluirLocatarioForm.Designer.cs">
+      <DependentUpon>ExcluirLocatarioForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GravarConfiguracaoClasse.cs" />
+    <Compile Include="livrosClasse.cs" />
+    <Compile Include="procurarLivrosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="procurarLivrosForm.Designer.cs">
+      <DependentUpon>procurarLivrosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcurarLocatarioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcurarLocatarioForm.Designer.cs">
+      <DependentUpon>ProcurarLocatarioForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="telaClientesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaClientesForm.Designer.cs">
+      <DependentUpon>telaClientesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaEmprestimoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaEmprestimoForm.Designer.cs">
+      <DependentUpon>telaEmprestimoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaLivrosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaLivrosForm.Designer.cs">
+      <DependentUpon>telaLivrosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaPrincipalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaPrincipalForm.Designer.cs">
+      <DependentUpon>telaPrincipalForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="autoresForm.resx">
+      <DependentUpon>autoresForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="autorEspiritualForm.resx">
+      <DependentUpon>autorEspiritualForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastrarClientesForm.resx">
+      <DependentUpon>CadastrarClientesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastrarLivroForm.resx">
+      <DependentUpon>cadastrarLivroForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="configurarBancoForm.resx">
+      <DependentUpon>configurarBancoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevolverLivroForm.resx">
+      <DependentUpon>DevolverLivroForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ecluirLivroForm.resx">
+      <DependentUpon>ecluirLivroForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmprestarLivroForm.resx">
+      <DependentUpon>EmprestarLivroForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcluirLocatarioForm.resx">
+      <DependentUpon>ExcluirLocatarioForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="procurarLivrosForm.resx">
+      <DependentUpon>procurarLivrosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcurarLocatarioForm.resx">
+      <DependentUpon>ProcurarLocatarioForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="telaClientesForm.resx">
+      <DependentUpon>telaClientesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaEmprestimoForm.resx">
+      <DependentUpon>telaEmprestimoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaLivrosForm.resx">
+      <DependentUpon>telaLivrosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaPrincipalForm.resx">
+      <DependentUpon>telaPrincipalForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BIBLIOTECA_EVELIONEDataSet.xsc">
+      <DependentUpon>BIBLIOTECA_EVELIONEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BIBLIOTECA_EVELIONEDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BIBLIOTECA_EVELIONEDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BIBLIOTECA_EVELIONEDataSet.xss">
+      <DependentUpon>BIBLIOTECA_EVELIONEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

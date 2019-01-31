@@ -1,0 +1,9 @@
+c:\users\bruno\documents\visual studio 2015\Projects\Exemplo_Aula_02\Exemplo_Aula_02\bin\Debug\Exemplo_Aula_02.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\Exemplo_Aula_02\Exemplo_Aula_02\bin\Debug\Exemplo_Aula_02.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Exemplo_Aula_02\Exemplo_Aula_02\bin\Debug\Exemplo_Aula_02.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\Exemplo_Aula_02\Exemplo_Aula_02\obj\Debug\Exemplo_Aula_02.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\Exemplo_Aula_02\Exemplo_Aula_02\obj\Debug\Exemplo_Aula_02.Form1.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Exemplo_Aula_02\Exemplo_Aula_02\obj\Debug\Exemplo_Aula_02.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Exemplo_Aula_02\Exemplo_Aula_02\obj\Debug\Exemplo_Aula_02.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\Exemplo_Aula_02\Exemplo_Aula_02\obj\Debug\Exemplo_Aula_02.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Exemplo_Aula_02\Exemplo_Aula_02\obj\Debug\Exemplo_Aula_02.pdb

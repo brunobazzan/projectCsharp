@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biblioteca_eveline.autoresForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAUAAACAIADQAAACAgAECAAAAAAAAAAACAAAAAAQ=</HashCode>
+      <FileName>autoresForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.autorEspiritualForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAUBAACAAABRAAACAgAACAAAAAAEAAAACAAAAAAQ=</HashCode>
+      <FileName>autorEspiritualForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.BIBLIOTECA_EVELIONEDataSet" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAwAAAAJABAAAQAAAAggCQBgAAAAAAAEIBBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.CadastrarClientesForm" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAACCAAABBAAACAAAACAABAAAEAAAAAAAIAAAA=</HashCode>
+      <FileName>CadastrarClientesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.cadastrarLivroForm" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgAAQACCAgADBQAICRAAASAQgAAgEAQAAAAQAAAAE=</HashCode>
+      <FileName>cadastrarLivroForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.clienteClasse" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEEAAgSAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAEAA=</HashCode>
+      <FileName>clienteClasse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.configurarBancoForm" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoAEEAACAAABQAAkCAAAASAAAAAAIAAAAAAhAAAAA=</HashCode>
+      <FileName>configurarBancoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.DevolverLivroClasse" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAABAAAEAABAAAAIAAAAAAAA=</HashCode>
+      <FileName>DevolverLivroClasse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.DevolverLivroForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAgAAACAAIBAAAECAAAICAAAEIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DevolverLivroForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.ecluirLivroForm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAABQAAACAAAACAAQEAAIAAAAAAAAAQAA=</HashCode>
+      <FileName>ecluirLivroForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.EmprestarLivroForm" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAABBAAACAAAACAAAEAAEAgAAAAAgABAA=</HashCode>
+      <FileName>EmprestarLivroForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.EmprestimoClass" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAACAQAFAAAAEAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmprestimoClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.ExcluirLocatarioForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAACBAAAACAAAACAARAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ExcluirLocatarioForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.telaLoginForm" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAgAAAACAAAACAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.GravarConfiguracaoClasse" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>GravarConfiguracaoClasse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.livrosClasse" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAQAAAAAEIEAAACIAAAAAABAAAACAAAABCBA=</HashCode>
+      <FileName>livrosClasse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.procurarLivrosForm" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAgAEAAACAQABQAAgCAAAACAAgAAAAAAAACAQAAAAA=</HashCode>
+      <FileName>procurarLivrosForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.ProcurarLocatarioForm" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAgEAQAACAAABAAAgCAAAACACwgAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>ProcurarLocatarioForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.Program" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.telaClientesForm" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgEEgACWAAAAAAAgCAioACACEAEQAAAAQQAAAAAAA=</HashCode>
+      <FileName>telaClientesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.telaEmprestimoForm" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAEAAACgAEEwAAACEAAACAKAAAgAAAAACIAAAgAQ=</HashCode>
+      <FileName>telaEmprestimoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.telaLivrosForm" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAmANgAgqACBAQCAACYhgSCAAECgAAAAAACAAQCgAQ=</HashCode>
+      <FileName>telaLivrosForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.telaPrincipalForm" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ATEAAAAAACBCEAAAABCACAACAAAACAAAAAAAEAAAjBA=</HashCode>
+      <FileName>telaPrincipalForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.VerificarClasse" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VerificarClasse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.BIBLIOTECA_EVELIONEDataSetTableAdapters.LIVROSTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.BIBLIOTECA_EVELIONEDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAICAAAABABAEBAAAAMAAgAAACgABAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca_eveline.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,10 @@
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Teste\Biblioteca_Teste\bin\Debug\Biblioteca_Teste.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Teste\Biblioteca_Teste\bin\Debug\Biblioteca_Teste.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Teste\Biblioteca_Teste\bin\Debug\Biblioteca_Teste.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Teste\Biblioteca_Teste\obj\Debug\Biblioteca_Teste.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Teste\Biblioteca_Teste\obj\Debug\Biblioteca_Teste.Form1.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Teste\Biblioteca_Teste\obj\Debug\Biblioteca_Teste.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Teste\Biblioteca_Teste\obj\Debug\Biblioteca_Teste.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Teste\Biblioteca_Teste\obj\Debug\Biblioteca_Teste.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Biblioteca_Teste\Biblioteca_Teste\obj\Debug\Biblioteca_Teste.pdb
+C:\Users\Bruno\Documents\Visual Studio 2015\Projects\Biblioteca_Teste\Biblioteca_Teste\obj\Debug\Biblioteca_Teste.CadastrarCliente.resources

@@ -1,0 +1,11 @@
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\bin\Debug\Sistema de estoque.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\bin\Debug\Sistema de estoque.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\bin\Debug\Sistema de estoque.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\obj\Debug\Sistema de estoque.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\obj\Debug\Sistema_de_estoque.telaPrincipalForm.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\obj\Debug\Sistema_de_estoque.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\obj\Debug\Sistema de estoque.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\obj\Debug\Sistema de estoque.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\obj\Debug\Sistema de estoque.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\obj\Debug\Sistema_de_estoque.Produto.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Sistema de estoque\Sistema de estoque\obj\Debug\Sistema_de_estoque.CadastrarProduto.resources

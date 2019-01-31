@@ -1,0 +1,11 @@
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\bin\Debug\LeitorSQLCE.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\bin\Debug\LeitorSQLCE.exe
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\bin\Debug\LeitorSQLCE.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\bin\Debug\System.Data.SqlServerCe.dll
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\obj\Debug\LeitorSQLCE.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\obj\Debug\LeitorSQLCE.Form1.resources
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\obj\Debug\LeitorSQLCE.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\obj\Debug\LeitorSQLCE.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\obj\Debug\LeitorSQLCE.exe
+c:\users\bruno\documents\visual studio 2015\Projects\LeitorSQLCE\LeitorSQLCE\obj\Debug\LeitorSQLCE.pdb
