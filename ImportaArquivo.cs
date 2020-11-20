@@ -17,7 +17,7 @@ namespace ClasseImportaArquivo.csproj
             int counter = 0;  
             string line;  
 
-            conexao = "string de conexao do seu banco de dados";
+            conexao = "Data Source= Servidor ;Initial Catalog= Banco_de_dados;User Id=Usuario; Password=Senha";
             caminho = @"caminho do seu arquivo.csv\.txt";
 
             SqlConnection conn = new SqlConnection(conexao);
